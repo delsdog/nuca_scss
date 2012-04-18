@@ -1,11 +1,11 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "../../Sites/econex/wp-content/themes/econex/"
-css_dir = "../../Sites/econex/wp-content/themes/econex/"
+http_path = "../../Sites/ecotest/wp-content/themes/econex/"
+css_dir = "../../Sites/ecotest/wp-content/themes/econex/"
 sass_dir = "sass"
-images_dir = "../../Sites/econex/wp-content/themes/econex/inc/images"
-javascripts_dir = "../../Sites/econex/wp-content/themes/econex/js"
+images_dir = "../../Sites/ecotest/wp-content/themes/econex/inc/images"
+javascripts_dir = "../../Sites/ecotest/wp-content/themes/econex/js"
 project_type = :stand_alone
 output_style = :nested
 # You can select your preferred output style here (can be overridden via the command line):
