@@ -3,6 +3,7 @@
  * Project: NUCA Website
  * Comment: Base stylesheet
 
+
 ----------------------
 Contents:
 
@@ -20,6 +21,7 @@ Contents:
 /*--------------------------------------------------------------------------
   Font Sizing
 ----------------------------------------------------------------------------*/
+
 body {
   font-size: 0.75em; }
 
@@ -141,12 +143,14 @@ h1 {
   margin-bottom: 10px; }
 
 h2 {
-  margin-bottom: 2px; }
+  font-size:1.3em;
+  margin-bottom: 5px; 
+  font-weight:normal;}
 
 h1.lowercase {
   text-transform: none; }
-
-h2, h3 {
+/* only h3, used to be h2, h3 */
+h3 {
   font-weight: bold; }
 
 h4 {
@@ -232,7 +236,7 @@ a:hover {
 
 #gallery-nav {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
   z-index: 999; }
 
@@ -248,6 +252,7 @@ a:hover {
   background-color: #FFFF00;
   color: #232323; }
 .home-gallery-container{
+  /*height:238px;*/
   height:350px;
 }
 .home-gallery {
@@ -258,7 +263,7 @@ a:hover {
   position: relative;
   width: 770px;
   height:350px;
-  /*height: 238px;*/ }
+  /*height: 238px; */}
 
 .home-gallery a,
 .home-gallery img,
@@ -749,7 +754,9 @@ blockquote .quote {
 .article-full {
   float: none;
   width: auto; }
-
+#main_content {
+  /*background:url('../images/article_bg.png') repeat-y 100% 100%;*/
+}
 #main_content .sub-article .image-container,
 #main_narrow .sub-article .image-container {
   float: left;
@@ -1225,11 +1232,13 @@ Added for new NUCA templates
   line-height: 25px;
   text-decoration: none;
   /*text-transform:uppercase;*/
-  font-size: 1.05em; }
+  font-size: 1.05em; 
+}
 
 #menu li a:hover, #menu li:hover a {
   background-color: #28373B;
-  color: #ffffff; }
+  color: #ffffff; 
+}
 
 #menu .menu li li a {
   color: #ffffff;
@@ -1311,7 +1320,7 @@ ul.course-news .news_right, table.blog .news_right {
   width: 460px;
   float: right; }
 
-#grey_cont p {
+#social p {
   margin-bottom: 14px; }
 
 #lower_content p a {
@@ -1362,3 +1371,46 @@ a#homelink {
   margin-top: 48px; }
 
 /* close the new menu bit */
+
+
+/* make the gallery h2 white */
+h2.white{
+  color:#ffffff;
+}
+
+#lower_content a{
+  text-decoration:none;
+}
+
+/* make the film footer menu styled */
+ul.menu_filmfooter {
+  list-style: none;
+  padding: 0;
+  margin: 5px 0 10px 0;
+  position: relative;
+  float: left;
+  width: 940px;
+  background-color: #D3DBE1; }
+
+ul.menu_filmfooter li {
+  /*display:inline;*/
+  float: left;
+  margin: 0 5px;
+  /*position:relative;
+  height:25px;*/ }
+
+ul.menu_filmfooter li a {
+  padding: 5px;
+  color: #28373B;
+  height: 25px;
+  line-height: 25px;
+  text-decoration: none;
+  /*text-transform:uppercase;*/
+  font-size: 1.05em; 
+}
+
+ul.menu_filmfooter li:hover a {
+  background-color: #28373B;
+  color: #ffffff; 
+}
+

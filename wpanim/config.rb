@@ -1,11 +1,11 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "../../Sites/htdocs/Nuca live/templates/system/"
-css_dir = "../../Sites/htdocs/Nuca live/templates/system/css"
+http_path = "/"
+css_dir = "../../Sites/htdocs/wordpress/wp-content/themes/wpanimation"
 sass_dir = "sass"
-images_dir = "../../Sites/htdocs/Nuca live/templates/system/images"
-javascripts_dir = "../../Sites/htdocs/Nuca live/templates/system/js"
+images_dir = "../../Sites/htdocs/wordpress/wp-content/themes/wpanimation/images"
+javascripts_dir = "../../Sites/htdocs/wordpress/wp-content/themes/wpanimation/javascripts"
 project_type = :stand_alone
 output_style = :nested
 

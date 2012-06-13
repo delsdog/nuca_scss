@@ -27,3 +27,186 @@
 2012-05-09 14:44:47 identical ../../Sites/Nuca live/templates/system/css/styles.css 
 2012-05-09 14:48:14 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
 2012-05-10 14:38:59 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-14 15:02:19 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-14 15:03:19 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-14 17:00:42 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:41:49 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:45:00 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:47:13 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:47:53 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:48:41 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:50:07 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:54:03 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:55:15 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:55:37 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:55:39 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 09:57:02 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 10:06:04 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 10:46:28 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 13:33:21 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 13:36:09 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 13:38:59 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 13:42:27 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 13:58:35 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 14:00:17 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 14:01:34 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 14:23:14 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:26:54 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:27:37 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:28:23 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:31:41 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:31:52 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:37:47 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:40:55 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:41:45 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 15:42:17 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 16:34:14 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 16:40:52 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-15 16:48:20 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:24:03    create ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:26:08 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:28:33 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:31:00 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:43:26 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:47:00 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:47:56 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:48:35 identical ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:49:08 overwrite ../../Sites/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:50:12 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 09:50:38 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:16:42 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:17:43 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:18:12 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:18:58    create ../../Sites/htdocs/Nuca live/templates/system/css/ie.css 
+2012-05-28 10:18:58    create ../../Sites/htdocs/Nuca live/templates/system/css/print.css 
+2012-05-28 10:18:58    create ../../Sites/htdocs/Nuca live/templates/system/css/screen.css 
+2012-05-28 10:18:59    create ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:43:52 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 10:46:10     error sass/styles.scss (Line 1233: Undefined mixin 'transition'.)
+2012-05-28 10:46:10 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:29:41    create ../../Sites/htdocs/Nuca live/templates/system/css/transition.css 
+2012-05-28 13:29:54 identical ../../Sites/htdocs/Nuca live/templates/system/css/transition.css 
+2012-05-28 13:31:14     error sass/styles.scss (Line 1238: Undefined mixin 'transition'.)
+2012-05-28 13:31:14 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:31:23     error sass/styles.scss (Line 1239: Undefined mixin 'transition'.)
+2012-05-28 13:31:23 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:32:08     error sass/styles.scss (Line 1239: Undefined mixin 'transition'.)
+2012-05-28 13:32:08 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:33:03     error sass/styles.scss (Line 1242: Mixin transition is missing parameter $transition-time.)
+2012-05-28 13:33:03 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:33:35 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:34:23 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:36:02 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:37:54 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:52:24 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:53:15 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:55:50 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:56:34 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:57:21 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:58:31 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:59:08 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 13:59:28 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:00:07 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:01:02 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:02:15 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:03:11 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:04:00 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:05:19 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:06:11 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:06:37 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:07:32 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:24:42     error sass/styles.scss (Line 25: Invalid CSS after "@import ": expected uri, was "transition.scss")
+2012-05-28 14:24:42 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:25:01 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:25:36 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-28 14:25:36 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/transition.css 
+2012-05-28 16:55:11 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 08:47:27     error sass/styles.scss (Line 25: File to import not found or unreadable: transition.scss.
+Load paths:
+  /Users/dereklawrie/sass/nuca/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  Compass::SpriteImporter)
+2012-05-29 08:47:27 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 08:47:27    create ../../Sites/htdocs/Nuca live/templates/system/css/transition2.css 
+2012-05-29 08:47:27     error sass/styles.scss (Line 25: File to import not found or unreadable: transition.scss.
+Load paths:
+  /Users/dereklawrie/sass/nuca/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  Compass::SpriteImporter)
+2012-05-29 08:47:27 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 08:48:09     error sass/styles.scss (Line 25: File to import not found or unreadable: _transition.scss.
+Load paths:
+  /Users/dereklawrie/sass/nuca/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  Compass::SpriteImporter)
+2012-05-29 08:48:09 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 09:02:20 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 09:02:29 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 09:06:14     error sass/styles.scss (Line 1424: Invalid CSS after "  border-radius": expected "{", was "(5px);")
+2012-05-29 09:06:14 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 09:06:35 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 09:06:50 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:01:11 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:04:32     error sass/styles.scss (Line 26: File to import not found or unreadable: base.
+Load paths:
+  /Users/dereklawrie/sass/nuca/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.1/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  Compass::SpriteImporter)
+2012-05-29 11:04:32 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:04:50     error sass/styles.scss (Line 2 of sass/_stuart.scss: Invalid CSS after "$nuca-yellow ": expected ":", was "= #fff100;")
+2012-05-29 11:04:50 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:05:10 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:06:15 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:10:40 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:10:47 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:11:34 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:12:20 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-29 11:12:47 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:24:42    create ../../Sites/htdocs/Nuca live/templates/system/css/ie.css 
+2012-05-30 15:24:43    create ../../Sites/htdocs/Nuca live/templates/system/css/print.css 
+2012-05-30 15:24:43    create ../../Sites/htdocs/Nuca live/templates/system/css/screen.css 
+2012-05-30 15:24:45    create ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:27:51     error sass/styles.scss (Line 1233: Undefined mixin 'transition'.)
+2012-05-30 15:27:52 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:28:45 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:32:19 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:32:46 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:32:54 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:35:03 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:35:45 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:38:42 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:41:52 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:44:35 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:46:41 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:47:02 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:47:38 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:54:50 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 15:56:42 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-05-30 16:39:13 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 08:41:15 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 08:42:54 identical ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 09:26:06 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 09:26:35 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 09:27:01 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:36:06 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:37:27 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:39:15 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:40:16 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:41:09 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 
+2012-06-11 10:41:43 overwrite ../../Sites/htdocs/Nuca live/templates/system/css/styles.css 

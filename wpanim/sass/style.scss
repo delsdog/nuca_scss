@@ -1,0 +1,105 @@
+/*
+Theme Name: Animation Degree Shows
+Theme URI: http://www.nuca.ac.uk
+Author: Derek Lawrie
+Author URI: http://www.nuca.ac.uk
+Description: The theme for the animation degree show site thing.
+License: GNU General Public License
+License URI: license.txt
+Tags: NUCA, BA Animation, Animation
+*/
+
+/* main stylesheet for wp animation site */
+
+$bg-colour: #000000;
+$text-colour: #ffffff;
+$first-column: 275px;
+$gutter: 25px;
+$second-column: 600px;
+
+@import "compass/reset";
+
+body{
+	font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color:$bg-colour;
+	color:$text-colour;
+}
+
+#page{
+	margin:25px 0 0 50px;
+}
+
+strong{
+	font-weight:bold;
+	font-size:1.3em;
+}
+
+a{
+	color:$text-colour;
+}
+
+hgroup, #headercontent, #main{
+	width:900px;
+	height:100px;
+}
+
+hgroup div, #headercontent div, #primary, #secondary{
+	position:relative;
+	float:left;
+}
+
+#pagetitle{
+	line-height:100px;
+	font-size:4em;
+	font-weight:bold;
+}
+
+#primary{
+	float:right;
+	clear:both;
+}
+
+#primary, #secondary{
+	margin-top:25px
+}
+
+#headercontent{
+	clear:both;
+}
+#logo, #hc1, #secondary{
+	width:$first-column;
+	margin-right:$gutter;
+}
+
+#pagetitle, #hc2, #primary{
+	width:$second-column;
+}
+
+#secondary{
+	height:400px;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+
+#hc2{
+	margin-top:35px;
+}
+
+h2{
+	font-size:1.3em;
+	font-weight:bold;
+	margin: 10px 0 5px 0;
+}
+aside{
+	clear:both;
+	float:left;
+	width:275px;
+}
+aside img, aside p{
+	float:left;
+	display:inline;
+	position:relative;
+}
+aside a{
+	text-decoration:none;
+}
